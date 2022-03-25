@@ -1,0 +1,60 @@
+/*body {
+    background-color: #e6e9dd;
+}
+*/
+.Table {
+    padding: 10px;
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    height: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid rgb(51, 51, 73);
+    border-spacing: 0px;
+    text-align: left;
+}
+
+.TableHeader {
+   /* color: #4fc57c;*/
+    font-weight: bold;
+    height: 50px;
+    font-size: larger;
+    border: 1px solid rgb(51, 51, 73);
+    text-align: left;
+    /*border-collapse: collapse;
+    /*background-color: aliceblue;*/
+}
+.TableBodyRow{
+    border: 1px solid rgb(51, 51, 73);
+    
+}
+
+/*.Name{
+    border: 1px solid rgb(51, 51, 73);
+}
+/*.TableBodyRow:nth-child(odd) {
+    background-color: #abc4db;
+}
+.TableBodyRow{
+    background-color: #c2e9d1;
+}
+.TableBodyRow:hover {
+    background-color: #63b4c9;
+}
+*/
+.td2,.Name{
+    border: 1 px solid rgb(121, 20, 20);
+
+}
+.TableBody{
+    border: 1 px solid black;
+}
+.myTable, th,
+
+td {
+
+    border: 1px solid black;
+
+    border-collapse: collapse;
+}
